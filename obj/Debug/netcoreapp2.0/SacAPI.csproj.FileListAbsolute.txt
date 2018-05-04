@@ -1,0 +1,11 @@
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\obj\Debug\netcoreapp2.0\SacAPI.csprojResolveAssemblyReference.cache
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\obj\Debug\netcoreapp2.0\SacAPI.csproj.CoreCompileInputs.cache
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\obj\Debug\netcoreapp2.0\SacAPI.AssemblyInfoInputs.cache
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\obj\Debug\netcoreapp2.0\SacAPI.AssemblyInfo.cs
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\bin\Debug\netcoreapp2.0\SacAPI.deps.json
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\bin\Debug\netcoreapp2.0\SacAPI.runtimeconfig.json
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\bin\Debug\netcoreapp2.0\SacAPI.runtimeconfig.dev.json
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\bin\Debug\netcoreapp2.0\SacAPI.dll
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\bin\Debug\netcoreapp2.0\SacAPI.pdb
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\obj\Debug\netcoreapp2.0\SacAPI.dll
+C:\Users\mcach\Dropbox\Projects\Core\SacAPI\SacAPI\obj\Debug\netcoreapp2.0\SacAPI.pdb
